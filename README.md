@@ -1,4 +1,4 @@
 example
 =======
 
-A
+AB
